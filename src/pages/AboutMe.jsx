@@ -8,7 +8,10 @@ const AboutMe = () => {
            <br /> I am a full stack web developer crafting digital experiences through elegant code
           <br />  and innovative design to bring ideas to life on the web
         </div>
-          <div>I am Skills in React, Node.js, PostgreSQL, MongoDB</div>
+        <br />
+          <div className='text-center text-lg text-blue-400'>With a solid foundation in various programming languages and frameworks, I relish the
+              <br />challenge of transforming complex concepts into user-friendly web applications.
+          </div>
     </div>
   )
 }
