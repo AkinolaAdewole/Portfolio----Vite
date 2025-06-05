@@ -3,11 +3,12 @@ import React from 'react'
 const AboutMe = () => {
   return (
     <div> 
-        <div>
-          Hi, I am a full stack web developer crafting digital experiences through elegant code
-          and innovative design to bring ideas to life on the web
+        <div className='text-center text-lg text-blue-400'>
+          Hi, I am Akinola Adewole,
+           <br /> I am a full stack web developer crafting digital experiences through elegant code
+          <br />  and innovative design to bring ideas to life on the web
         </div>
-        <p>I am a Fullstack Developer</p> 
+          <div>I am Skills in React, Node.js, PostgreSQL, MongoDB</div>
     </div>
   )
 }

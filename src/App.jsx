@@ -8,10 +8,7 @@ function App() {
   return (
     <div>
       <AboutMe />
-      <div className='text-center text-lg text-blue-400'> I am Akinola Adewole</div>
-      <p> I am a Fullstack Developer</p>
 
-      <div>I am Skills in React, Node.js, PostgreSQL, MongoDB</div>
       <div>
         I also use docker and Kubernetes for containerization and orchestration
       </div>
