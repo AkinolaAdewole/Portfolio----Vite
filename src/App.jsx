@@ -1,13 +1,14 @@
 import AboutMe from './pages/AboutMe'
 import Skills from './pages/Skills'
 import Passions from './pages/Passions'
+import './css/style.css'
 
 function App() {
 
   return (
     <div>
-      {/* <AboutMe /> */}
-      <div> I am Akinola Adewole</div>
+      <AboutMe />
+      <div className='text-center text-lg text-blue-400'> I am Akinola Adewole</div>
       <p> I am a Fullstack Developer</p>
 
       <div>I am Skills in React, Node.js, PostgreSQL, MongoDB</div>
