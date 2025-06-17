@@ -2,7 +2,7 @@ import React from 'react'
 
 const Experience = () => {
   return (
-    <div>
+    <div className=''>
                 I have over two years experience.
         <p> I am currently working for Namibra.</p>
         <p>check my linkedIn for more details</p>
